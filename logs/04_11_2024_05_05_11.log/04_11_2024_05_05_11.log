@@ -1,0 +1,18 @@
+[ 2024-04-11 05:05:12,079 ] 28 root - INFO - Entered the data ingestion method or component
+[ 2024-04-11 05:05:12,104 ] 31 root - INFO - Read the dataset as dataframe
+[ 2024-04-11 05:05:12,209 ] 38 root - INFO - Saved the raw data
+[ 2024-04-11 05:05:12,265 ] 72 root - INFO - Date features added successfully
+[ 2024-04-11 05:05:12,272 ] 83 root - INFO - Converted to numeric successfully
+[ 2024-04-11 05:05:12,274 ] 83 root - INFO - Converted to numeric successfully
+[ 2024-04-11 05:05:12,278 ] 83 root - INFO - Converted to numeric successfully
+[ 2024-04-11 05:05:12,278 ] 83 root - INFO - Converted to numeric successfully
+[ 2024-04-11 05:05:12,283 ] 83 root - INFO - Converted to numeric successfully
+[ 2024-04-11 05:05:12,283 ] 83 root - INFO - Converted to numeric successfully
+[ 2024-04-11 05:05:12,283 ] 92 root - INFO - Target added successfully
+[ 2024-04-11 05:05:17,846 ] 107 root - INFO - Technical indicators added successfully
+[ 2024-04-11 05:05:17,849 ] 128 root - INFO - Dropped Sundays successfully
+[ 2024-04-11 05:05:17,851 ] 137 root - INFO - Encoded categoricals successfully
+[ 2024-04-11 05:05:18,001 ] 117 root - INFO - Dropped columns with missing values successfully
+[ 2024-04-11 05:05:18,013 ] 53 root - INFO - Data preprocessing completed
+[ 2024-04-11 05:05:18,320 ] 44 root - INFO - Saved the raw data
+[ 2024-04-11 05:05:48,868 ] 91 root - INFO - Best found model on both training and testing dataset

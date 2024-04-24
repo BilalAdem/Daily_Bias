@@ -1,0 +1,13 @@
+[ 2024-04-11 04:06:11,185 ] 30 root - INFO - Entered the data ingestion method or component
+[ 2024-04-11 04:06:11,194 ] 33 root - INFO - Read the dataset as dataframe
+[ 2024-04-11 04:06:11,265 ] 41 root - INFO - Saved the raw data
+[ 2024-04-11 04:06:11,315 ] 64 root - INFO - Date features added successfully
+[ 2024-04-11 04:06:11,315 ] 75 root - INFO - Converted to numeric successfully
+[ 2024-04-11 04:06:11,315 ] 75 root - INFO - Converted to numeric successfully
+[ 2024-04-11 04:06:11,315 ] 75 root - INFO - Converted to numeric successfully
+[ 2024-04-11 04:06:11,315 ] 75 root - INFO - Converted to numeric successfully
+[ 2024-04-11 04:06:11,332 ] 75 root - INFO - Converted to numeric successfully
+[ 2024-04-11 04:06:11,335 ] 75 root - INFO - Converted to numeric successfully
+[ 2024-04-11 04:06:11,338 ] 84 root - INFO - Target added successfully
+[ 2024-04-11 04:06:16,437 ] 99 root - INFO - Technical indicators added successfully
+[ 2024-04-11 04:06:16,445 ] 113 root - ERROR - The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().

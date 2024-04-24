@@ -1,0 +1,19 @@
+<html>
+<body>
+    <div class="login">
+       <h1>Daily Trading Bias</h1>
+   
+       <form action="{{ url_for('predict_datapoint')}}" method="post">
+        
+        <div class="mb-3">
+            <input class="btn btn-primary" type="submit" value="Get EURUSD Dailly Bias" required />
+        </div>
+    </form>
+    <h2>
+       DATE: {{ date }}
+    </h2>
+    <h2>
+        Daily Bias Prediction: {{ bias }}
+    </h2>
+   <body>
+</html>

@@ -1,0 +1,15 @@
+[ 2024-04-11 03:59:41,593 ] 30 root - INFO - Entered the data ingestion method or component
+[ 2024-04-11 03:59:41,617 ] 33 root - INFO - Read the dataset as dataframe
+[ 2024-04-11 03:59:41,709 ] 41 root - INFO - Saved the raw data
+[ 2024-04-11 03:59:41,741 ] 63 root - INFO - Date features added successfully
+[ 2024-04-11 03:59:41,759 ] 74 root - INFO - Converted to numeric successfully
+[ 2024-04-11 03:59:41,759 ] 74 root - INFO - Converted to numeric successfully
+[ 2024-04-11 03:59:41,759 ] 74 root - INFO - Converted to numeric successfully
+[ 2024-04-11 03:59:41,759 ] 74 root - INFO - Converted to numeric successfully
+[ 2024-04-11 03:59:41,759 ] 74 root - INFO - Converted to numeric successfully
+[ 2024-04-11 03:59:41,771 ] 74 root - INFO - Converted to numeric successfully
+[ 2024-04-11 03:59:41,773 ] 83 root - INFO - Target added successfully
+[ 2024-04-11 03:59:45,271 ] 98 root - INFO - Technical indicators added successfully
+[ 2024-04-11 03:59:45,271 ] 106 root - INFO - Dropped NA values successfully
+[ 2024-04-11 03:59:45,283 ] 115 root - INFO - Dropped Sundays successfully
+[ 2024-04-11 03:59:45,288 ] 124 root - INFO - Encoded categoricals successfully

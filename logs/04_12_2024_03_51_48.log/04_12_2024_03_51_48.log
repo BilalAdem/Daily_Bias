@@ -1,0 +1,131 @@
+[ 2024-04-12 03:51:48,159 ] 28 root - INFO - Entered the data ingestion method or component
+[ 2024-04-12 03:51:48,181 ] 31 root - INFO - Read the dataset as dataframe
+[ 2024-04-12 03:51:48,260 ] 38 root - INFO - Saved the raw data
+[ 2024-04-12 03:51:48,309 ] 65 root - INFO - Date features added successfully
+[ 2024-04-12 03:51:48,309 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:51:48,309 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:51:48,319 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:51:48,319 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:51:48,324 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:51:48,329 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:51:48,329 ] 85 root - INFO - Target added successfully
+[ 2024-04-12 03:51:51,974 ] 100 root - INFO - Technical indicators added successfully
+[ 2024-04-12 03:51:51,981 ] 121 root - INFO - Dropped Sundays successfully
+[ 2024-04-12 03:51:52,099 ] 130 root - INFO - Encoded categoricals successfully
+[ 2024-04-12 03:51:52,209 ] 110 root - INFO - Dropped columns with missing values successfully
+[ 2024-04-12 03:51:52,261 ] 65 root - INFO - Date features added successfully
+[ 2024-04-12 03:51:52,267 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:51:52,342 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:51:52,342 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:51:52,342 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:51:52,352 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:51:52,354 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:51:52,354 ] 85 root - INFO - Target added successfully
+[ 2024-04-12 03:51:57,889 ] 100 root - INFO - Technical indicators added successfully
+[ 2024-04-12 03:51:57,900 ] 121 root - INFO - Dropped Sundays successfully
+[ 2024-04-12 03:51:57,900 ] 130 root - INFO - Encoded categoricals successfully
+[ 2024-04-12 03:51:58,009 ] 110 root - INFO - Dropped columns with missing values successfully
+[ 2024-04-12 03:51:58,080 ] 65 root - INFO - Date features added successfully
+[ 2024-04-12 03:51:58,089 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:51:58,089 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:51:58,096 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:51:58,096 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:51:58,104 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:51:58,109 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:51:58,109 ] 85 root - INFO - Target added successfully
+[ 2024-04-12 03:52:02,269 ] 100 root - INFO - Technical indicators added successfully
+[ 2024-04-12 03:52:02,278 ] 121 root - INFO - Dropped Sundays successfully
+[ 2024-04-12 03:52:02,284 ] 130 root - INFO - Encoded categoricals successfully
+[ 2024-04-12 03:52:02,379 ] 110 root - INFO - Dropped columns with missing values successfully
+[ 2024-04-12 03:52:02,429 ] 65 root - INFO - Date features added successfully
+[ 2024-04-12 03:52:02,437 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:02,441 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:02,446 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:02,449 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:02,455 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:02,458 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:02,459 ] 85 root - INFO - Target added successfully
+[ 2024-04-12 03:52:07,509 ] 100 root - INFO - Technical indicators added successfully
+[ 2024-04-12 03:52:07,519 ] 121 root - INFO - Dropped Sundays successfully
+[ 2024-04-12 03:52:07,520 ] 130 root - INFO - Encoded categoricals successfully
+[ 2024-04-12 03:52:07,626 ] 110 root - INFO - Dropped columns with missing values successfully
+[ 2024-04-12 03:52:07,673 ] 65 root - INFO - Date features added successfully
+[ 2024-04-12 03:52:07,678 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:07,679 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:07,679 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:07,688 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:07,690 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:07,690 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:07,696 ] 85 root - INFO - Target added successfully
+[ 2024-04-12 03:52:13,012 ] 100 root - INFO - Technical indicators added successfully
+[ 2024-04-12 03:52:13,019 ] 121 root - INFO - Dropped Sundays successfully
+[ 2024-04-12 03:52:13,019 ] 130 root - INFO - Encoded categoricals successfully
+[ 2024-04-12 03:52:13,136 ] 110 root - INFO - Dropped columns with missing values successfully
+[ 2024-04-12 03:52:13,195 ] 65 root - INFO - Date features added successfully
+[ 2024-04-12 03:52:13,203 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:13,203 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:13,209 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:13,212 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:13,219 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:13,221 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:13,221 ] 85 root - INFO - Target added successfully
+[ 2024-04-12 03:52:18,583 ] 100 root - INFO - Technical indicators added successfully
+[ 2024-04-12 03:52:18,590 ] 121 root - INFO - Dropped Sundays successfully
+[ 2024-04-12 03:52:18,599 ] 130 root - INFO - Encoded categoricals successfully
+[ 2024-04-12 03:52:18,704 ] 110 root - INFO - Dropped columns with missing values successfully
+[ 2024-04-12 03:52:18,760 ] 65 root - INFO - Date features added successfully
+[ 2024-04-12 03:52:18,768 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:18,768 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:18,777 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:18,779 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:18,779 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:18,779 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:18,789 ] 85 root - INFO - Target added successfully
+[ 2024-04-12 03:52:23,989 ] 100 root - INFO - Technical indicators added successfully
+[ 2024-04-12 03:52:23,992 ] 121 root - INFO - Dropped Sundays successfully
+[ 2024-04-12 03:52:23,998 ] 130 root - INFO - Encoded categoricals successfully
+[ 2024-04-12 03:52:24,125 ] 110 root - INFO - Dropped columns with missing values successfully
+[ 2024-04-12 03:52:24,166 ] 65 root - INFO - Date features added successfully
+[ 2024-04-12 03:52:24,171 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:24,171 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:24,176 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:24,179 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:24,179 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:24,179 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:24,179 ] 85 root - INFO - Target added successfully
+[ 2024-04-12 03:52:29,732 ] 100 root - INFO - Technical indicators added successfully
+[ 2024-04-12 03:52:29,740 ] 121 root - INFO - Dropped Sundays successfully
+[ 2024-04-12 03:52:29,749 ] 130 root - INFO - Encoded categoricals successfully
+[ 2024-04-12 03:52:29,919 ] 110 root - INFO - Dropped columns with missing values successfully
+[ 2024-04-12 03:52:29,980 ] 65 root - INFO - Date features added successfully
+[ 2024-04-12 03:52:29,982 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:29,989 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:29,989 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:29,999 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:30,004 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:30,009 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:30,014 ] 85 root - INFO - Target added successfully
+[ 2024-04-12 03:52:35,967 ] 100 root - INFO - Technical indicators added successfully
+[ 2024-04-12 03:52:35,970 ] 121 root - INFO - Dropped Sundays successfully
+[ 2024-04-12 03:52:35,974 ] 130 root - INFO - Encoded categoricals successfully
+[ 2024-04-12 03:52:36,070 ] 110 root - INFO - Dropped columns with missing values successfully
+[ 2024-04-12 03:52:36,117 ] 65 root - INFO - Date features added successfully
+[ 2024-04-12 03:52:36,129 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:36,129 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:36,129 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:36,138 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:36,143 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:36,147 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:36,149 ] 85 root - INFO - Target added successfully
+[ 2024-04-12 03:52:41,291 ] 100 root - INFO - Technical indicators added successfully
+[ 2024-04-12 03:52:41,298 ] 121 root - INFO - Dropped Sundays successfully
+[ 2024-04-12 03:52:41,304 ] 130 root - INFO - Encoded categoricals successfully
+[ 2024-04-12 03:52:41,391 ] 110 root - INFO - Dropped columns with missing values successfully
+[ 2024-04-12 03:52:41,447 ] 65 root - INFO - Date features added successfully
+[ 2024-04-12 03:52:41,453 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:41,458 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:41,462 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:41,464 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:41,471 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:41,474 ] 76 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:52:41,475 ] 85 root - INFO - Target added successfully

@@ -1,0 +1,14 @@
+[ 2024-04-12 03:42:49,849 ] 28 root - INFO - Entered the data ingestion method or component
+[ 2024-04-12 03:42:49,854 ] 31 root - INFO - Read the dataset as dataframe
+[ 2024-04-12 03:42:49,883 ] 38 root - INFO - Saved the raw data
+[ 2024-04-12 03:42:49,898 ] 60 root - INFO - Date features added successfully
+[ 2024-04-12 03:42:49,904 ] 71 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:42:49,904 ] 71 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:42:49,904 ] 71 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:42:49,904 ] 71 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:42:49,909 ] 71 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:42:49,909 ] 71 root - INFO - Converted to numeric successfully
+[ 2024-04-12 03:42:49,909 ] 80 root - INFO - Target added successfully
+[ 2024-04-12 03:42:51,689 ] 95 root - INFO - Technical indicators added successfully
+[ 2024-04-12 03:42:51,689 ] 116 root - INFO - Dropped Sundays successfully
+[ 2024-04-12 03:42:51,689 ] 127 root - ERROR - 'DataPreprocessing' object has no attribute 'le'

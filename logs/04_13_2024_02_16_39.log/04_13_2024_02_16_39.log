@@ -1,0 +1,30 @@
+[ 2024-04-13 02:16:39,592 ] 28 root - INFO - Entered the data ingestion method or component
+[ 2024-04-13 02:16:39,612 ] 31 root - INFO - Read the dataset as dataframe
+[ 2024-04-13 02:16:39,657 ] 38 root - INFO - Saved the raw data
+[ 2024-04-13 02:16:39,692 ] 67 root - INFO - Date features added successfully
+[ 2024-04-13 02:16:39,698 ] 78 root - INFO - Converted to numeric successfully
+[ 2024-04-13 02:16:39,698 ] 78 root - INFO - Converted to numeric successfully
+[ 2024-04-13 02:16:39,698 ] 78 root - INFO - Converted to numeric successfully
+[ 2024-04-13 02:16:39,698 ] 78 root - INFO - Converted to numeric successfully
+[ 2024-04-13 02:16:39,707 ] 78 root - INFO - Converted to numeric successfully
+[ 2024-04-13 02:16:39,707 ] 78 root - INFO - Converted to numeric successfully
+[ 2024-04-13 02:16:39,707 ] 87 root - INFO - Target added successfully
+[ 2024-04-13 02:16:43,072 ] 102 root - INFO - Technical indicators added successfully
+[ 2024-04-13 02:16:43,072 ] 123 root - INFO - Dropped Sundays successfully
+[ 2024-04-13 02:16:43,077 ] 132 root - INFO - Encoded categoricals successfully
+[ 2024-04-13 02:16:43,166 ] 112 root - INFO - Dropped columns with missing values successfully
+[ 2024-04-13 02:16:43,170 ] 53 root - INFO - Data preprocessing completed
+[ 2024-04-13 02:16:43,295 ] 48 root - INFO - Saved the raw data
+[ 2024-04-13 02:16:43,298 ] 58 root - INFO - Best found model on both training and testing dataset is XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=0.8, device=None, early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=1.5, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=0.02, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=5, max_leaves=None,
+              min_child_weight=1, missing=nan, monotone_constraints=None,
+              multi_strategy=None, n_estimators=600, n_jobs=None, nthread=1,
+              num_parallel_tree=None, ...)
+[ 2024-04-13 02:16:45,519 ] 82 root - INFO - Model saved at artifacts\model.pkl
+[ 2024-04-13 02:16:45,525 ] 60 root - INFO - Model training completed

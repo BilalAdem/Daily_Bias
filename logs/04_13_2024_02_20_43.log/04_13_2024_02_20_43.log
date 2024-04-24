@@ -1,0 +1,13 @@
+[ 2024-04-13 02:20:43,105 ] 66 root - INFO - Date features added successfully
+[ 2024-04-13 02:20:43,111 ] 77 root - INFO - Converted to numeric successfully
+[ 2024-04-13 02:20:43,113 ] 77 root - INFO - Converted to numeric successfully
+[ 2024-04-13 02:20:43,113 ] 77 root - INFO - Converted to numeric successfully
+[ 2024-04-13 02:20:43,113 ] 77 root - INFO - Converted to numeric successfully
+[ 2024-04-13 02:20:43,119 ] 77 root - INFO - Converted to numeric successfully
+[ 2024-04-13 02:20:43,119 ] 77 root - INFO - Converted to numeric successfully
+[ 2024-04-13 02:20:43,119 ] 86 root - INFO - Target added successfully
+[ 2024-04-13 02:20:46,658 ] 101 root - INFO - Technical indicators added successfully
+[ 2024-04-13 02:20:46,666 ] 122 root - INFO - Dropped Sundays successfully
+[ 2024-04-13 02:20:46,675 ] 131 root - INFO - Encoded categoricals successfully
+[ 2024-04-13 02:20:46,763 ] 111 root - INFO - Dropped columns with missing values successfully
+[ 2024-04-13 02:20:46,763 ] 177 root - INFO - Data preprocessing completed

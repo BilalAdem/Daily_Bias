@@ -1,0 +1,31 @@
+Model Name,Precision
+"XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=None, device=None, early_stopping_rounds=None,
+              enable_categorical=False, eval_metric=None, feature_types=None,
+              gamma=None, grow_policy=None, importance_type=None,
+              interaction_constraints=None, learning_rate=None, max_bin=None,
+              max_cat_threshold=None, max_cat_to_onehot=None,
+              max_delta_step=None, max_depth=None, max_leaves=None,
+              min_child_weight=None, missing=nan, monotone_constraints=None,
+              multi_strategy=None, n_estimators=None, n_jobs=None,
+              num_parallel_tree=None, random_state=1, ...)",0.6444444444444445
+"GradientBoostingClassifier(min_samples_split=100, random_state=1)",0.625
+"ExtraTreesClassifier(min_samples_split=100, random_state=1)",0.6212121212121212
+"AdaBoostClassifier(n_estimators=100, random_state=1)",0.6129032258064516
+"RandomForestClassifier(max_depth=20, min_samples_leaf=2, min_samples_split=5,
+                       n_estimators=200, random_state=1)",0.609375
+DecisionTreeClassifier(random_state=1),0.5813953488372093
+"RandomForestClassifier(min_samples_split=100, random_state=1)",0.5789473684210527
+"XGBRFClassifier(base_score=None, booster=None, callbacks=None,
+                colsample_bylevel=None, colsample_bytree=None, device=None,
+                early_stopping_rounds=None, enable_categorical=False,
+                eval_metric=None, feature_types=None, gamma=None,
+                grow_policy=None, importance_type=None,
+                interaction_constraints=None, max_bin=None,
+                max_cat_threshold=None, max_cat_to_onehot=None,
+                max_delta_step=None, max_depth=None, max_leaves=None,
+                min_child_weight=None, missing=nan, monotone_constraints=None,
+                multi_strategy=None, n_estimators=None, n_jobs=None,
+                num_parallel_tree=None, objective='binary:logistic',
+                random_state=None, reg_alpha=None, ...)",0.5714285714285714
